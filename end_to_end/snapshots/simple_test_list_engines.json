@@ -1,0 +1,1 @@
+{"engines": [{"id": "stable-diffusion-v1-5", "name": "Stable Diffusion v1.5", "description": "Stable Diffusion using the RunwayML v1.5 model", "type": "PICTURE"}, {"id": "hat-gan-x4", "name": "hat-gan-x4", "description": "No description", "type": "PICTURE"}]}

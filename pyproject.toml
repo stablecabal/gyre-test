@@ -1,0 +1,29 @@
+[project]
+name = "gyre-test"
+authors = [{ name = "Hamish Friedlander", email = "hafriedlander@gmail.com" }]
+readme = "README.md"
+license = { file = "LICENSE" }
+classifiers = ["License :: OSI Approved :: Apache Software License"]
+dynamic = ["version", "description"]
+
+[project.optional-dependencies]
+# These are used by the VSCode configuration to format the python code consistently
+dev = [
+  "black ~= 22.10.0", 
+  "flake8 ~= 6.0.0", 
+  "flake8-pyproject ~= 1.2.1"
+]
+
+[project.urls]
+Home = "https://github.com/stablecabal/gyre"
+
+[tool.flit.module]
+name = "gyre-test"
+
+[tool.isort]
+profile = "black"
+
+[tool.flake8]
+max-line-length = 88
+select = "C,E,F,W,B,B950"
+extend-ignore = "E203, E501, W503"

@@ -1,0 +1,101 @@
+
+# Lora and Textual Inversions
+
+Distributed under CreativeML-OpenRAIL-M unless otherwise noted
+
+- lora_kohyass_baroque.safetensors
+  https://huggingface.co/OlafII/baroquebuildings
+
+- lora_cos_popart.safetensors
+  https://github.com/cloneofsimo/lora/tree/master/example_loras  
+  Distributed under Apache-2.0
+
+- lora_diffusers_pokemon.safetenors
+  
+
+# Images from Unsplash
+
+Distributed under the Unsplash license
+
+- woman.jpg
+  https://unsplash.com/photos/2c0midsQKe0
+  Atikh Bana
+
+- dance_couple.jpg
+  https://unsplash.com/photos/vBW5RylIdTU
+  Kir Simakov
+
+- dance_group.jpg
+  https://unsplash.com/photos/e3OUQGT9bWU
+  Helena Lopes
+
+- venice.jpg
+  https://unsplash.com/photos/e3OUQGT9bWU
+  Joshua Kettle
+
+- japan.jpg
+  https://unsplash.com/photos/SAEFYbEEvpc
+  Daniel Newman
+
+- truckbed.jpg
+  https://unsplash.com/photos/P_3tlKx-lHQ
+  Justin Wolff  
+
+- stairs.jpg
+  https://unsplash.com/photos/dEmyi-XR88w
+  Sigmund
+
+- parrot.jpg
+  https://unsplash.com/photos/m1EV2ulB5-Y
+  Igor Lypnyskyi
+
+- kitchen.jpg
+  https://unsplash.com/photos/So_RhzZsk7c
+  Katie Azi
+
+- meta.jpg
+  https://unsplash.com/photos/1LYghB1HuRQ
+  Daniel Lincoln
+
+- neon.jpg
+  https://unsplash.com/photos/SE0Uq8N4e_U
+  Bernardo Santos
+
+- rabbit.jpg
+  https://unsplash.com/photos/u_kMWN-BWyU
+  Satyabratasm
+
+- garland.jpb
+  https://unsplash.com/photos/T_50HhXIFiQ
+  Vitalii Khodzinskyi 
+
+# Others
+
+Check the URLs for the licenses. Typically public domain.
+
+- mannesleben.jpg
+  https://commons.wikimedia.org/wiki/File:Ludwig_Richter_001_-_Mannesleben.jpg
+  Ludwig Richter  
+
+- chinese_landscape.jpg
+  https://www.metmuseum.org/art/collection/search/36100
+  Wang Jian
+
+- tower.jpg
+  https://www.metmuseum.org/art/collection/search/16040
+  Mary Newbold Sargent
+
+- ragusa.jpg
+  https://www.metmuseum.org/art/collection/search/12485
+  Mary Newbold Sargent
+
+- death.jpb
+  https://www.metmuseum.org/art/collection/search/338448
+  attributed to Geronimo Cenatiempo
+
+# Remote
+
+The files in sources/external are downloaded by download_resources.sh
+
+They aren't distributed in the git repo, as either the license
+is not clear, or it explicitly does not allow compatible distribution
